@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "gmAI5rXE5Rs0xQzCOxphqigX5SKekgc4CoUlmDRswuyRzICvLoIElKBeDuSEev2jYnLVIs3M5OLjFTpq1qTc7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\Andronaki_social_app\\social_app_Andronaki\\social_app_Andronaki\\social_app_Andronaki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\bunifu.ui.winforms\\5.3.0\\bunifu.ui.winforms.5.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Bunifu.UI.WinForms 5.3.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Bunifu.UI.WinForms",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
